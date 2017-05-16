@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TODO List</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="sign_in">Sign In:</string>
+    <string name="sign_up">Sign Up:</string>
+    <string name="sign_in_btn">Sign In!</string>
+    <string name="sign_up_btn">Sign Up!</string>
+    <string name="add_todo_element">Add</string>
+</resources>
